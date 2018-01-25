@@ -5,7 +5,7 @@ TARGET=blinkyRtos
 
 LABROOT=../..
 TIVA=${LABROOT}/TivaDriver
-FREERTOS=${LABROOT}/FreeRTOSv10.0.0/FreeRTOS/Source
+FREERTOS=${LABROOT}/FreeRTOSv9.0.0/FreeRTOS/Source
 
 SIZE=arm-none-eabi-size
 
